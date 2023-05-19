@@ -30,17 +30,20 @@ Keys Pressed:
 javac ```<shift>```l```<tab>```.java```<enter>```
 bash```<space>```t```<tab>``````<enter>```
 
-## Step 9 - Commit and Push
-![Image](GitPushLab7.png)
+## Step 9
+## Commit
+![Image](GitCommitLab7.png)
 Keys Pressed:
 git```<space>```add```<space>```-a```<enter>```
 git```<space>```commit```<space>```-m```<space>``````<shift>```"```<shift>```fixed```<space>```index1```<shift>```"```<enter>```
 
+## Push
 ![Image](GitPushLab7.png)
 Keys Pressed:
 git```<space>```push```<enter>```
 jdegraaf3```<enter>```
 (my password/key)```<enter>```
 
+## Success of push
 ![Image](GitSuccess.png)
 As you can see in the picture above the git commit and push was successful and shows in the fork of lab7 on my github repositories.
