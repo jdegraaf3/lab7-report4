@@ -22,7 +22,8 @@ Keys Pressed:
 ```<vim>```,```<space>```,```<shift>```,```<lis>```,```<tab>```,```<.java>```,```<enter>```
 
 Keys pressed once in vim editor on ListExamples.java (my cursor opened up right on the edit needed):
-```<x>```,```<i>```,```<esc>```,```<:wq>```,```<enter>```
+```<x>```,```<i>```,```<index2>```,```<esc>```,```<:wq>```,```<enter>```
+The key ```<x>``` deletes a word when you are on it, in this case it deleted ```<index1>```. The key ```<i>``` makes you go into insert mode in vim, allowing me to type in ```<index2>```. ```<esc>``` exits insert mode in vim, then ```<:wq>```, ```<enter>``` saves your work and exits vim and the file you are editing. Some shortcuts you can use in the whole editing process to do it quickly is to use ```<tab>``` to complete commands/words, use ctrl-c(copy) and ctr-v(paste) to copy and paste rather that right clicking to get to it, in order to keeo your hands on the keyboard and move faster. And most importantly use the up/down arrow keys to get to past commands you used so you don't have to re-type whole commands, this saves a lot of time.
 
 ## Step 8 - Show Success
 ![Image](Step8.png)
